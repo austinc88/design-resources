@@ -7,5 +7,6 @@
 
 ## Frameworks & Libraries
 - http://materializecss.com/
+- http://material-ui.com/ (React)
 - http://getbootstrap.com/
 - http://foundation.zurb.com/
